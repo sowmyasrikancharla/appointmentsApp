@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.single-appointment {
+  border: 1px solid #b5b7c4;
+  display: flex;
+  border-radius: 10px;
+  padding: 5px;
+  justify-content: space-between;
+  width: 30%;
+  margin: 10px;
+}
+.head1 {
+  color: #171f46;
+  font-size: 20px;
+}
+.date {
+  color: #b5b7c4;
+  font-size: 18px;
+}
+.star {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+}
+.no-bg {
+  background-color: #ffffff;
+  border: 0px;
+}
